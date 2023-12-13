@@ -1,5 +1,39 @@
 
-
 .dif-bg {
-    background-color: rgb(132, 199, 225) !important; 
+    background-color: #7e9a5a !important; 
+}
+
+.maincolor {
+    background-color: #5a8e9a !important;
+}
+
+.cooltitle {
+    background-color: #5a8e9a;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+
+.mytext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    background-color: #5a8e9a;
+    left: 0px;
+    z-index: 1;
 }
